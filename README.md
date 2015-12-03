@@ -1,7 +1,7 @@
 # Snackbars & Toast Custom
 Snackbars provide lightweight feedback about an operation by showing a brief message at the bottom of the screen. Snackbars can contain an action.
 
-SnackBar & toast-like alert pattern for Android inspired by the [Google Material Design Spec].
+SnackBar & toast-like alert pattern for Android inspired by the [Google Material Design Spec](https://www.google.com/design/spec/components/snackbars-toasts.html).
 
 ## build.gradle
 
@@ -27,7 +27,7 @@ dependencies {
 
 ## Screenshots
 
-![alt tag](https://github.com/cleidimarviana/TabLayout/blob/master/screenshots/Screenshot_2015-11-16-03-34-42.png "Simple Tabs")
+![alt tag](https://github.com/cleidimarviana/snackbars-and-toast-custom/blob/master/screenshots/screenshot1.png "Simple Tabs")
 
 
 ## Contribution
