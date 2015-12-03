@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Snackbars &amp; Toast Custom</string>
+
+    <string-array name="fi">
+        <item>Toast simple</item>
+        <item>Toast simple center</item>
+        <item>Toast simple center long</item>
+        <item>Toast custom center with image</item>
+        <item>Snackbar simple</item>
+        <item>Snackbar with Action Callback</item>
+        <item>Customizing the Snackbar Text Color</item>
+        <item>Customizing the Snackbar Text Bold</item>
+        <item>Customizing the Snackbar Text Bold Color</item>
+        <item>Snackbar Multline</item>
+    </string-array>
+
+</resources>
